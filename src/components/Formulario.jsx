@@ -66,7 +66,7 @@ const Formulario = ({setBusquedaletra}) => {
                             </div>
                             <button type='submit' className='btn btn-primary float-right'>Buscar</button>
                         </fieldset>
-                    </form>S
+                    </form>
                 </div>
             </div>
         </div>
